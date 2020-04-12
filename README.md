@@ -1,2 +1,2 @@
-# skoltech_intro_to_ds2020
+# Introduction to Data Science at SkolTech
 Here one can find my homework assignments for the course
